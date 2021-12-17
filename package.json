@@ -1,0 +1,26 @@
+{
+  "name": "veriphone",
+  "version": "1.0.0",
+  "description": "API to validate Nigerian phone numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoyProg/veriPhoneAPI.git"
+  },
+  "author": "Joy I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoyProg/veriPhoneAPI/issues"
+  },
+  "homepage": "https://github.com/JoyProg/veriPhoneAPI#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
